@@ -1,0 +1,40 @@
+html {
+    color: white;
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("https://www.1min30.com/wp-content/uploads/2018/11/Avengers.jpg");
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-size: 70%;
+    background-position-y: 15%;
+}
+#a {
+    color: crimson;
+}
+img {
+    margin: 40px;
+}
+p {
+    color: white;
+}
+
+.bleu {
+    color: blue;
+}
+
+.blanc {
+    color: white;
+}
+
+.rouge {
+    color: red;
+}
+ol { 
+   border-width: 10px;
+   border-color: white;
+   border-radius: 10px;
+   border-style: double;
+   width: fit-content;
+   height: fit-content;
+   padding: 10px;
+}
